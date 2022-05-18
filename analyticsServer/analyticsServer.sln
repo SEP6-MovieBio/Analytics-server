@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Analytics server", "Analytics server\Analytics server.csproj", "{882B4F43-FB74-409E-95B9-C67D8BA9495B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyticsServer", "AnalyticsServer\AnalyticsServer.csproj", "{882B4F43-FB74-409E-95B9-C67D8BA9495B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
